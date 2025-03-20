@@ -1,0 +1,19 @@
+{
+    "name": "LYNX's Repo",
+    "identifier": "com.lynx4669.repo",
+    "sourceURL": "https://muhammadRamzan4669.github.io/apps.json",
+    "apps": [
+        {
+            "name": "Lost in Play",
+            "bundleIdentifier": "com.retromusic.player",
+            "version": "1.0.4",
+            "versionDate": "2025-03-20",
+            "size": 655000000,
+            "downloadURL": "https://muhammadRamzan4669.github.io/ipa/LostInPlay.ipa",
+            "iconURL": "https://muhammadRamzan4669.github.io/ipa/icons/LostInPlay.png",
+            "permissions": [],
+            "developerName": "IPAomtk",
+            "localizedDescription": "Reality and imagination blur in this wonderfully illustrated adventure game starring playfully competitive young siblings."
+        }
+    ]
+}
