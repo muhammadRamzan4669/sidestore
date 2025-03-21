@@ -5,12 +5,12 @@
     "apps": [
         {
             "name": "Lost in Play",
-            "bundleIdentifier": "com.retromusic.player",
+            "bundleIdentifier": "com.snapbreak.lip",
             "version": "1.0.4",
             "versionDate": "2025-03-20",
             "size": 655000000,
             "downloadURL": "https://pd.cybar.xyz/GQfJV4LM?download",
-            "iconURL": "https://muhammadRamzan4669.github.io/ipa/icons/LostInPlay.png",
+            "iconURL": "https://github.com/muhammadRamzan4669/sidestore/blob/main/ipa/icons/LostInPlay.png",
             "permissions": [],
             "developerName": "IPAomtk",
             "localizedDescription": "Reality and imagination blur in this wonderfully illustrated adventure game starring playfully competitive young siblings."
